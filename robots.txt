@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hefonenoquga.pages.dev/sitemap.xml
